@@ -1,4 +1,4 @@
-# neurolab-ruby
+# lab-ruby
 
 Command to run Hello.rb file:
 
